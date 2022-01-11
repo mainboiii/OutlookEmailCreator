@@ -247,3 +247,5 @@ if __name__ == '__main__':
     account_creator = OutlookAccountCreator(use_proxy=True)
     # Run account creator
     account_creator.create_account()
+
+    
